@@ -4,6 +4,11 @@
 
 The Summer Olympics Medal Analysis project offers a comprehensive exploration of medal data from the Summer Olympics. Leveraging SQL queries, it dives into various aspects such as athlete performance, country-wise medal tallies, historical trends, and even predictive analyses like forecasting future champions. This project serves as a rich resource for anyone interested in understanding the dynamics of Olympic success over the years.
 
+
+## Blog Post
+You can find a detailed blog post about this project on the [DataCamp Workspace](https://app.datacamp.com/workspace/w/5ef501c5-5ee7-45a7-8797-befe3790f2da/edit).
+
+
 ## Objective
 
 The primary objective of this project is to provide insights into the patterns and trends within the Summer Olympics medal data. By querying and analyzing the dataset, the project aims to achieve the following objectives:
